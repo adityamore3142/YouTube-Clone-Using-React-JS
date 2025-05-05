@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/YouTube-Clone-Using-React-JS/static/css/main.3def35ff.css",
+    "main.js": "/YouTube-Clone-Using-React-JS/static/js/main.5c2a2f9a.js",
+    "static/js/453.32f1d7c5.chunk.js": "/YouTube-Clone-Using-React-JS/static/js/453.32f1d7c5.chunk.js",
+    "static/media/thumbnail4.png": "/YouTube-Clone-Using-React-JS/static/media/thumbnail4.e34afa6c5561f3117302.png",
+    "static/media/thumbnail8.png": "/YouTube-Clone-Using-React-JS/static/media/thumbnail8.80d857e9c212045f6efb.png",
+    "static/media/thumbnail1.png": "/YouTube-Clone-Using-React-JS/static/media/thumbnail1.91aa5ce73fc8255c007b.png",
+    "static/media/thumbnail5.png": "/YouTube-Clone-Using-React-JS/static/media/thumbnail5.9a1043ddda8747245faf.png",
+    "static/media/thumbnail3.png": "/YouTube-Clone-Using-React-JS/static/media/thumbnail3.f0474d5b6e63a0eec5da.png",
+    "static/media/thumbnail7.png": "/YouTube-Clone-Using-React-JS/static/media/thumbnail7.2409c5eef5ea0b8c2130.png",
+    "static/media/thumbnail6.png": "/YouTube-Clone-Using-React-JS/static/media/thumbnail6.922e46bb7429a189f630.png",
+    "static/media/thumbnail2.png": "/YouTube-Clone-Using-React-JS/static/media/thumbnail2.a7ae1c5718ce05f4c2f4.png",
+    "static/media/cameron.png": "/YouTube-Clone-Using-React-JS/static/media/cameron.cedb1ba5832f609542da.png",
+    "static/media/tom.png": "/YouTube-Clone-Using-React-JS/static/media/tom.df63bfcb6f1c8f5d7137.png",
+    "static/media/jack.png": "/YouTube-Clone-Using-React-JS/static/media/jack.3a2249a07dd80a9c36a4.png",
+    "static/media/megan.png": "/YouTube-Clone-Using-React-JS/static/media/megan.d9c678d896bed0b8c031.png",
+    "static/media/simon.png": "/YouTube-Clone-Using-React-JS/static/media/simon.a92c2df263101574e364.png",
+    "index.html": "/YouTube-Clone-Using-React-JS/index.html",
+    "main.3def35ff.css.map": "/YouTube-Clone-Using-React-JS/static/css/main.3def35ff.css.map",
+    "main.5c2a2f9a.js.map": "/YouTube-Clone-Using-React-JS/static/js/main.5c2a2f9a.js.map",
+    "453.32f1d7c5.chunk.js.map": "/YouTube-Clone-Using-React-JS/static/js/453.32f1d7c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3def35ff.css",
+    "static/js/main.5c2a2f9a.js"
+  ]
+}
