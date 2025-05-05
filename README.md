@@ -1,18 +1,25 @@
-developing a website of youtube clone 
-using react js , react router
-learned the concepts of react-router of how to mount any page i.e how to make route.
-const[sidebar,setSidebar]= useState(true) using this usestate property which takes 2 values
-1st is initial value and 2nd is a function to make changes in the value.
+YouTube Clone - React Project
 
-in route element we give a path & the element itself which we are passing .
-also learned about develping different pages(folders containg jsx and css file) first & the passing thsese components i the respective pages i.e mounting on them.
+A fully responsive YouTube clone built using React.js, designed to mimic the UI and functionality of YouTube. This project demonstrates my proficiency with React hooks, routing, state management, API integration, and responsive design.
 
-in video pages mounted playvideo and recommended pages , side video list.
-created feed component on home page which shows all the videos list.
+Dynamic Search & Video Fetching using the YouTube Data API v3
+Video Listing by category (e.g., Music, Sports, News, etc.)
+React Hooks mastered:
 
-completed all the frontend.................................................................
+- `useState` – for managing component-level state
+- `useEffect` – for side effects and data fetching
+- `useParams` – for dynamic route parameters
+  Props Management – clean parent-child communication
+  Component Architecture – modular, reusable components
+  Routing – implemented using React Router
+  Responsive Design – mobile-first layout using Flexbox and CSS media queries
+  Built first as a static website, then powered by dynamic API data
 
-now,
+Technologies Used
 
-Youtube Data Api =======
-
+- **React.js**
+- **JavaScript (ES6+)**
+- **HTML5 / CSS3**
+- **React Router**
+- **YouTube Data API v3**
+- **Moment.js** for time formatting
