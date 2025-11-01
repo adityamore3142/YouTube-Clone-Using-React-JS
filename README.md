@@ -4,8 +4,8 @@ A fully responsive YouTube clone built using React.js, designed to mimic the UI 
 
 Dynamic Search & Video Fetching using the YouTube Data API v3
 Video Listing by category (e.g., Music, Sports, News, etc.)
-React Hooks mastered:
 
+React Hooks mastered:
 - `useState` – for managing component-level state
 - `useEffect` – for side effects and data fetching
 - `useParams` – for dynamic route parameters
@@ -16,10 +16,16 @@ React Hooks mastered:
   Built first as a static website, then powered by dynamic API data
 
 Technologies Used
+- React.js
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- React Router
+- YouTube Data API v3
+- Moment.js for time formatting
 
-- **React.js**
-- **JavaScript (ES6+)**
-- **HTML5 / CSS3**
-- **React Router**
-- **YouTube Data API v3**
-- **Moment.js** for time formatting
+
+
+
+//removed this line from package.json it is causing an error of no path found 
+"homepage": "https://adityamore3142.github.io/YouTube-Clone-Using-React-JS",
+
